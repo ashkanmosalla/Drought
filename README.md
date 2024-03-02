@@ -1,4 +1,4 @@
-<img src="C:\Users\Admin\Desktop\project\GitHub\Drought\DALL·E 2024-.webp" alt="logo" width="400"/>
+<img src="DALL·E 2024-.webp" width="400"/>
 
 # Drought Susceptibility Mapping Using Deep Learning for Canada
 
