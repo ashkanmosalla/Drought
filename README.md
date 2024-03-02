@@ -30,3 +30,10 @@ We have modeled the following climate change scenarios for the geospatial databa
 ## Methodology
 
 After thorough data preprocessing and exploratory data analysis (EDA), we conducted multi-collinearity analysis and utilized the Random Forest feature importance technique, which resulted in the exclusion of the temperature feature. Deep Artificial Neural Network (ANN) model was then trained to generate prediction maps, indicating drought probabilities for each point.
+
+## Acknowledgments
+
+This section is dedicated to individuals, organizations, and institutions that contributed significantly to the development and success of this project. We extend our heartfelt gratitude to:
+
+- **Dr. Khabat Khosravi**, for his invaluable guidance in methodologies and data.
+- **Alireza Shahvaran**, for his expertise in data collection under different climate change scenarios.
