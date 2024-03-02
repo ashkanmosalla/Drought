@@ -1,4 +1,4 @@
-<img src="DALL·E 2024-.webp" width="400"/>
+<img src="images/DALL·E 2024-.webp" width="800"/>
 
 # Drought Susceptibility Mapping Using Deep Learning for Canada
 
